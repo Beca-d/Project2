@@ -11,10 +11,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Credit
 
-* Rob
-* Ryan
-* Rebeca
-* Leo
+* Rob ([robpduo](https://github.com/robpduo))
+* Ryan ([ryanraposo](https://github.com/ryanraposo))
+* Rebeca ([Beca-d](https://github.com/Beca-d))
+* Leo ([Leoman](https://github.com/Leoman))
 
 ## Development
 
